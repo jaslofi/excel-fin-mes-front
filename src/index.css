@@ -1,0 +1,31 @@
+/* Estilo del ícono del calendario */
+.custom-calendar .p-datepicker-trigger {
+  background-color: #9D0639;
+  border: none;
+  color: #EDD1AA;
+}
+
+/* Ícono (el <i class="pi"> dentro del botón) */
+.custom-calendar .p-datepicker-trigger .pi {
+  color: #EDD1AA;
+  font-size: 1.2rem;
+}
+
+/* Hover opcional */
+.custom-calendar .p-datepicker-trigger:hover {
+  background-color: #80042F;
+}
+
+.custom-button {
+  background-color: #9D0639;
+  border: none;
+  color: #EDD1AA;
+}
+
+.custom-button:hover {
+  background-color: #80042F;
+}
+
+body {
+  background-color: #edd1aa7c;
+}
